@@ -31,4 +31,4 @@ The company lacked a clear view of monthly sales performance and future growth t
 - Increased ability to make data-driven business decisions
 
 ## Dashboard
-![Monthly Sales Forecasting Dashboard](dashboard_screenshot.png)
+![Monthly Sales Forecasting Dashboard](https://github.com/hema-malini08/monthly-sales-forecasting-excel/blob/main/monthly%20sales%20forecasting%20dashboard.png)
